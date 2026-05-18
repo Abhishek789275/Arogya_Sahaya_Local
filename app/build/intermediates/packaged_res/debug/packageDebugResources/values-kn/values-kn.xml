@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಆರೋಗ್ಯ ಸಹಾಯ</string>
+    <string name="app_title">ಆರೋಗ್ಯ ಸಹಾಯ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="bp_hint">ರಕ್ತದೊತ್ತಡ (ಉದಾ: 120/80)</string>
+    <string name="btn_add_schedule">ವೇಳಾಪಟ್ಟಿಗೆ ಸೇರಿಸಿ</string>
+    <string name="btn_asha_calendar">ಆಶಾ ಕ್ಯಾಲೆಂಡರ್</string>
+    <string name="btn_edit">ತಿದ್ದುಪಡಿ</string>
+    <string name="btn_log_vitals">ವೈಟಲ್ಸ್ ಲಾಗ್ ಮಾಡಿ</string>
+    <string name="btn_med_schedule">ಔಷಧ ವೇಳಾಪಟ್ಟಿ</string>
+    <string name="btn_profile">ನನ್ನ ಪ್ರೊಫೈಲ್</string>
+    <string name="btn_sos">ತುರ್ತು (SOS)</string>
+    <string name="event_eye_desc">ಪ್ರಾಥಮಿಕ ಆರೋಗ್ಯ ಕೇಂದ್ರದಲ್ಲಿ ಉಚಿತ ಕಣ್ಣಿನ ತಪಾಸಣೆ.</string>
+    <string name="event_eye_title">ನೇತ್ರ ಚಿಕಿತ್ಸಾ ವಿಚಾರಗೋಷ್ಠಿ</string>
+    <string name="event_nutri_desc">ಸ್ಥಳೀಯ ಆಹಾರ ಮತ್ತು ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಹೆಚ್ಚಿಸುವ ಬಗ್ಗೆ ಮಾರ್ಗದರ್ಶನ.</string>
+    <string name="event_nutri_title">ಪೌಷ್ಟಿಕಾಂಶ ಕಾರ್ಯಾಗಾರ</string>
+    <string name="event_vax_desc">ಸಮುದಾಯ ಕೇಂದ್ರದಲ್ಲಿ ಸಾಮಾನ್ಯ ಆರೋಗ್ಯ ತಪಾಸಣೆ ಮತ್ತು ಪೋಲಿಯೋ ಹನಿಗಳು.</string>
+    <string name="event_vax_title">ಲಸಿಕೆ ಶಿಬಿರ</string>
+    <string name="event_visit_desc">ಹಿರಿಯ ನಿವಾಸಿಗಳಿಗೆ ವಾಡಿಕೆಯ ತಪಾಸಣೆ.</string>
+    <string name="event_visit_title">ಆಶಾ ಮನೆ ಭೇಟಿ</string>
+    <string name="events_on_this_day">ಈ ದಿನದ ಕಾರ್ಯಕ್ರಮಗಳು:</string>
+    <string name="hint_age">ವಯಸ್ಸು</string>
+    <string name="hint_conditions">ದೀರ್ಘಕಾಲದ ಕಾಯಿಲೆಗಳು</string>
+    <string name="hint_emergency_contact">ತುರ್ತು ಸಂಪರ್ಕ ಸಂಖ್ಯೆ</string>
+    <string name="hint_name">ಪೂರ್ಣ ಹೆಸರು</string>
+    <string name="hint_sos_number">ಕಸ್ಟಮ್ SOS ಸಂಖ್ಯೆ</string>
+    <string name="hr_hint">ಹೃದಯ ಬಡಿತ (BPM)</string>
+    <string name="label_dark_mode">ಡಾರ್ಕ್ ಮೋಡ್</string>
+    <string name="label_language">ಆದ್ಯತೆಯ ಭಾಷೆ</string>
+    <string name="log_vitals_title">ವೈಟಲ್ಸ್ ಲಾಗ್ ಮಾಡಿ</string>
+    <string name="med_dosage_hint">ಡೋಸೇಜ್ (ಉದಾ: 1 ಮಾತ್ರೆ)</string>
+    <string name="med_name_hint">ಔಷಧದ ಹೆಸರು</string>
+    <string name="next_medicine_label">ಮುಂದಿನ ಔಷಧ:</string>
+    <string name="no_events_today">ಈ ದಿನ ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮಗಳಿಲ್ಲ.</string>
+    <string name="no_medicine_scheduled">ಯಾವುದೇ ಔಷಧ ನಿಗದಿಯಾಗಿಲ್ಲ</string>
+    <string name="profile_title">ನನ್ನ ವೈದ್ಯಕೀಯ ಪ್ರೊಫೈಲ್</string>
+    <string name="save_profile">ಪ್ರೊಫೈಲ್ ಉಳಿಸಿ</string>
+    <string name="save_vitals">ವೈಟಲ್ಸ್ ಉಳಿಸಿ</string>
+    <string name="select_time_label">ಸಮಯ ಆಯ್ಕೆಮಾಡಿ:</string>
+    <string name="time_afternoon">ಮಧ್ಯಾಹ್ನ</string>
+    <string name="time_morning">ಬೆಳಿಗ್ಗೆ</string>
+    <string name="time_night">ರಾತ್ರಿ</string>
+    <string name="trends_7day">7-ದಿನಗಳ ಟ್ರೆಂಡ್ಸ್</string>
+    <string name="your_medications_label">ನಿಮ್ಮ ಔಷಧಗಳು</string>
+</resources>

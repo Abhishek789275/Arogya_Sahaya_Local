@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\drawable_app_icon.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\drawable_ic_asha_calendar.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\drawable\\ic_asha_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_trends.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_trends.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_item_reminder.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\item_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_vital_log.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_vital_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_item_medication.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\item_medication.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_splash.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.example.arogyasahaya.app-debug-79:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.arogyasahaya.app-main-81:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\drawable_ic_profile.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\drawable\\ic_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_register.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\drawable_bg_profile_circle.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\drawable\\bg_profile_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\drawable_bg_med_time.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\drawable\\bg_med_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_medication_schedule.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_medication_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_item_asha_event.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\item_asha_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_asha_calendar.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_asha_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-debug-79:\\layout_fragment_medication_reminder.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_medication_reminder.xml"
+    }
+]

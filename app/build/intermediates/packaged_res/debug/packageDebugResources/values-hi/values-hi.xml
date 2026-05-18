@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">आरोग्य सहायता</string>
+    <string name="app_title">आरोग्य सहायता डैशबोर्ड</string>
+    <string name="bp_hint">रक्तचाप (जैसे: 120/80)</string>
+    <string name="btn_add_schedule">समय सारणी में जोड़ें</string>
+    <string name="btn_asha_calendar">आशा कैलेंडर</string>
+    <string name="btn_edit">संपादित करें</string>
+    <string name="btn_log_vitals">वाइटल्स दर्ज करें</string>
+    <string name="btn_med_schedule">दवा समय सारणी</string>
+    <string name="btn_profile">मेरी प्रोफाइल</string>
+    <string name="btn_sos">आपातकालीन (SOS)</string>
+    <string name="events_on_this_day">इस दिन के कार्यक्रम:</string>
+    <string name="hint_age">आयु</string>
+    <string name="hint_conditions">पुरानी स्थितियाँ</string>
+    <string name="hint_emergency_contact">आपातकालीन संपर्क नंबर</string>
+    <string name="hint_name">पूरा नाम</string>
+    <string name="hint_sos_number">कस्टम SOS नंबर</string>
+    <string name="hr_hint">हृदय गति (BPM)</string>
+    <string name="label_dark_mode">डार्क मोड</string>
+    <string name="label_language">पसंदीदा भाषा</string>
+    <string name="log_vitals_title">वाइटल्स दर्ज करें</string>
+    <string name="med_dosage_hint">खुराक (जैसे: 1 गोली)</string>
+    <string name="med_name_hint">दवा का नाम</string>
+    <string name="next_medicine_label">अगली दवा:</string>
+    <string name="no_events_today">इस दिन कोई कार्यक्रम निर्धारित नहीं है।</string>
+    <string name="no_medicine_scheduled">कोई दवा निर्धारित नहीं है</string>
+    <string name="profile_title">मेरी चिकित्सा प्रोफाइल</string>
+    <string name="save_profile">प्रोफ़ाइल सहेजें</string>
+    <string name="save_vitals">वाइटल्स सहेजें</string>
+    <string name="select_time_label">समय चुनें:</string>
+    <string name="time_afternoon">दोपहर</string>
+    <string name="time_morning">सुबह</string>
+    <string name="time_night">रात</string>
+    <string name="trends_7day">7-दिवसीय रुझान</string>
+    <string name="your_medications_label">आपकी दवाएं</string>
+</resources>

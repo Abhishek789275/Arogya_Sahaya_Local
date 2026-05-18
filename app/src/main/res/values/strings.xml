@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Arogya Sahaya</string>
+    <string name="app_title">Arogya Sahaya Dashboard</string>
+    <string name="next_medicine_label">⏰ Next Medicine:</string>
+    <string name="no_medicine_scheduled">No medicine scheduled</string>
+    <string name="med_display_format">%1$s - %2$s</string>
+    <string name="adherence_label">📊 Today\'s Adherence:</string>
+    <string name="adherence_format">%1$d/%2$d Medicines Taken (%3$d%%)</string>
+    <string name="btn_log_vitals">❤️ Log Vitals</string>
+    <string name="btn_med_schedule">💊 Medicine Schedule</string>
+    <string name="btn_asha_calendar">📅 ASHA Calendar</string>
+    <string name="btn_hide_asha">🙈 Hide ASHA Calendar</string>
+    <string name="btn_profile">My Profile</string>
+    <string name="btn_sos">🚨 SOS 🚨</string>
+    <string name="log_vitals_title">Log Your Vitals</string>
+    <string name="bp_hint">Blood Pressure (e.g., 120/80)</string>
+    <string name="hr_hint">Heart Rate (BPM)</string>
+    <string name="sugar_hint">Blood Sugar (mg/dL)</string>
+    <string name="weight_hint">Weight (kg)</string>
+    <string name="save_vitals">Save Vitals</string>
+    <string name="trends_7day">7-Day Trends</string>
+    <string name="no_events_today">No events scheduled for this day.</string>
+    <string name="events_on_this_day">Events on this day:</string>
+
+    <!-- Profile & Settings -->
+    <string name="profile_title">My Medical Profile</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_contact">Email or Phone Number</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_conditions">Chronic Conditions</string>
+    <string name="hint_emergency_contact">Emergency Contact Number</string>
+    <string name="hint_sos_number">Custom SOS Number</string>
+    <string name="label_language">Preferred Language</string>
+    <string name="label_dark_mode">Dark Mode</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="btn_edit">Edit</string>
+    <string name="logout">Logout</string>
+
+    <!-- Medication Schedule -->
+    <string name="med_name_hint">Medicine Name</string>
+    <string name="med_dosage_hint">Dosage (e.g., 1 tablet)</string>
+    <string name="select_time_label">Select Time:</string>
+    <string name="time_morning">Morning</string>
+    <string name="time_afternoon">Afternoon</string>
+    <string name="time_night">Night</string>
+    <string name="btn_add_schedule">Add to Schedule</string>
+    <string name="your_medications_label">Your Medications</string>
+
+    <!-- Simulated Events with Emojis -->
+    <string name="event_vax_title">💉 Vaccination Camp</string>
+    <string name="event_vax_desc">General health checkup and polio drops at the Community Center.</string>
+    <string name="event_visit_title">🏠 ASHA Home Visit</string>
+    <string name="event_visit_desc">Routine check for elderly residents.</string>
+    <string name="event_eye_title">👁️ Eye Care Seminar</string>
+    <string name="event_eye_desc">Free eye testing at the Primary Health Center.</string>
+    <string name="event_nutri_title">🥗 Nutrition Workshop</string>
+    <string name="event_nutri_desc">Guidance on local diet and immunity boosting.</string>
+
+    <!-- Login & Register -->
+    <string name="login_title">Login</string>
+    <string name="register_title">Register</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="go_to_register">Don\'t have an account? Register here</string>
+    <string name="go_to_login">Already have an account? Login here</string>
+    <string name="greeting_format">🙏 Namaste %s</string>
+
+    <!-- SOS Strings -->
+    <string name="sos_triggered_format">EMERGENCY: SOS Triggered to %1$s</string>
+    <string name="sos_sms_message">EMERGENCY: I need help! Please contact me immediately.</string>
+    <string name="sms_failed">Failed to send SMS</string>
+
+    <!-- Bottom Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_med_reminder">Reminder</string>
+    <string name="nav_med_mgmt">Management</string>
+    <string name="nav_vital_log">Vital Log</string>
+    <string name="nav_trends">Trends</string>
+    <string name="nav_profile">Profile</string>
+</resources>

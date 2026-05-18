@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ആരോഗ്യ സഹായ</string>
+    <string name="app_title">ആരോഗ്യ സഹായ ഡാഷ്ബോർഡ്</string>
+    <string name="bp_hint">രക്തസമ്മർദ്ദം (ഉദാ: 120/80)</string>
+    <string name="btn_add_schedule">ഷെഡ്യൂളിലേക്ക് ചേർക്കുക</string>
+    <string name="btn_asha_calendar">ആശ കലണ്ടർ</string>
+    <string name="btn_edit">തിരുത്തുക</string>
+    <string name="btn_log_vitals">വൈറ്റൽസ് രേഖപ്പെടുത്തുക</string>
+    <string name="btn_med_schedule">മരുന്ന് ഷెಡ്യൂൾ</string>
+    <string name="btn_profile">എന്റെ പ്രൊഫൈൽ</string>
+    <string name="btn_sos">അടിയന്തിരം (SOS)</string>
+    <string name="events_on_this_day">ഈ ദിവസത്തെ പരിപാടികൾ:</string>
+    <string name="hint_age">പ്രായം</string>
+    <string name="hint_conditions">വിട്ടുമാറാത്ത അവസ്ഥകൾ</string>
+    <string name="hint_emergency_contact">അടിയന്തിര ബന്ധപ്പെടൽ നമ്പർ</string>
+    <string name="hint_name">മുഴുവൻ പേര്</string>
+    <string name="hint_sos_number">ഇഷ്‌ടാനുസൃത SOS നമ്പർ</string>
+    <string name="hr_hint">ഹൃദയമിടിപ്പ് (BPM)</string>
+    <string name="label_dark_mode">ഡാർക്ക് മോഡ്</string>
+    <string name="label_language">ഇഷ്ടപ്പെട്ട ഭാഷ</string>
+    <string name="log_vitals_title">വൈറ്റൽസ് രേഖപ്പെടുത്തുക</string>
+    <string name="med_dosage_hint">അളവ് (ഉദാ: 1 ഗുളിക)</string>
+    <string name="med_name_hint">മരുന്നിന്റെ പേര്</string>
+    <string name="next_medicine_label">അടുത്ത മരുന്ന്:</string>
+    <string name="no_events_today">ഈ ദിവസം പരിപാടികളൊന്നുമില്ല.</string>
+    <string name="no_medicine_scheduled">മരുന്നുകളൊന്നും ഷെഡ്യൂൾ ചെയ്തിട്ടില്ല</string>
+    <string name="profile_title">എന്റെ മെഡിക്കൽ പ്രൊഫൈൽ</string>
+    <string name="save_profile">പ്രൊഫൈൽ സംരക്ഷിക്കുക</string>
+    <string name="save_vitals">വൈറ്റൽസ് സംരക്ഷിക്കുക</string>
+    <string name="select_time_label">സമയം തിരഞ്ഞെടുക്കുക:</string>
+    <string name="time_afternoon">ഉച്ചയ്ക്ക്</string>
+    <string name="time_morning">രാവിലെ</string>
+    <string name="time_night">രാത്രി</string>
+    <string name="trends_7day">7 ദിവസത്തെ പ്രവണതകൾ</string>
+    <string name="your_medications_label">നിങ്ങളുടെ മരുന്നുകൾ</string>
+</resources>

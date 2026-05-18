@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.SplashFragment"
+        android:label="Splash"
+        tools:layout="@layout/fragment_splash">
+        <action
+            android:id="@+id/action_splashFragment_to_loginFragment"
+            app:destination="@id/loginFragment"
+            app:popUpTo="@id/splashFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_splashFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment"
+            app:popUpTo="@id/splashFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.LoginFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_login">
+        <action
+            android:id="@+id/action_loginFragment_to_registerFragment"
+            app:destination="@id/registerFragment" />
+        <action
+            android:id="@+id/action_loginFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment"
+            app:popUpTo="@id/loginFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/registerFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.RegisterFragment"
+        android:label="Register"
+        tools:layout="@layout/fragment_register">
+        <action
+            android:id="@+id/action_registerFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.DashboardFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_dashboard">
+        <action
+            android:id="@+id/action_dashboardFragment_to_vitalLogFragment"
+            app:destination="@id/vitalLogFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_ashaCalendarFragment"
+            app:destination="@id/ashaCalendarFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/medicationReminderFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.MedicationReminderFragment"
+        android:label="Reminder"
+        tools:layout="@layout/fragment_medication_reminder" />
+
+    <fragment
+        android:id="@+id/medicationScheduleFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.MedicationScheduleFragment"
+        android:label="Medication"
+        tools:layout="@layout/fragment_medication_schedule" />
+
+    <fragment
+        android:id="@+id/vitalLogFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.VitalLogFragment"
+        android:label="Vital Log"
+        tools:layout="@layout/fragment_vital_log" />
+
+    <fragment
+        android:id="@+id/trendsFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.TrendsFragment"
+        android:label="Trends"
+        tools:layout="@layout/fragment_trends" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/ashaCalendarFragment"
+        android:name="com.example.arogyasahaya.ui.fragments.AshaCalendarFragment"
+        android:label="ASHA Calendar"
+        tools:layout="@layout/fragment_asha_calendar" />
+
+</navigation>

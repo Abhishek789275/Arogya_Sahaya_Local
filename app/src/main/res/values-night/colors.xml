@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#121212</color>
+    <color name="surface_color">#1E1E1E</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF121212</color>
+
+    <!-- Lighter blue for dark mode visibility -->
+    <color name="primary_blue">#90CAF9</color>
+    <color name="primary_light">#E3F2FD</color>
+    <color name="primary_dark">#42A5F5</color>
+    <color name="emergency_red">#FF5252</color>
+    <color name="success_green">#81C784</color>
+</resources>

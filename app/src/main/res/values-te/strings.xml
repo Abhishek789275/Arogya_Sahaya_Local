@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ఆరోగ్య సహాయ</string>
+    <string name="app_title">ఆరోగ్య సహాయ డ్యాష్‌బోర్డ్</string>
+    <string name="next_medicine_label">తదుపరి మందు:</string>
+    <string name="no_medicine_scheduled">ఎటువంటి మందులు నిర్ణయించబడలేదు</string>
+    <string name="btn_log_vitals">వైటల్స్ నమోదు చేయండి</string>
+    <string name="btn_med_schedule">మందుల కాలపట్టిక</string>
+    <string name="btn_asha_calendar">ఆశా క్యాలెండర్</string>
+    <string name="btn_profile">నా ప్రొఫైల్</string>
+    <string name="btn_sos">అత్యవసర (SOS)</string>
+    <string name="log_vitals_title">వైటల్స్ నమోదు చేయండి</string>
+    <string name="bp_hint">రక్తపోటు (ఉదా: 120/80)</string>
+    <string name="hr_hint">గుండె వేగం (BPM)</string>
+    <string name="save_vitals">వైటల్స్ సేవ్ చేయండి</string>
+    <string name="trends_7day">7-రోజుల ట్రెండ్స్</string>
+    <string name="no_events_today">ఈ రోజు ఎటువంటి కార్యక్రమాలు లేవు.</string>
+    <string name="events_on_this_day">ఈ రోజు కార్యక్రమాలు:</string>
+
+    <string name="profile_title">నా వైద్య ప్రొఫైల్</string>
+    <string name="hint_name">పూర్తి పేరు</string>
+    <string name="hint_age">వయస్సు</string>
+    <string name="hint_conditions">దీర్ఘకాలిక వ్యాధులు</string>
+    <string name="hint_emergency_contact">అత్యవసర సంప్రదింపు సంఖ్య</string>
+    <string name="hint_sos_number">కస్టమ్ SOS సంఖ్య</string>
+    <string name="label_language">ప్రాధాన్యత భాష</string>
+    <string name="label_dark_mode">డార్క్ మోడ్</string>
+    <string name="save_profile">ప్రొఫైల్ సేవ్ చేయండి</string>
+    <string name="btn_edit">సవరించు</string>
+
+    <string name="med_name_hint">మందు పేరు</string>
+    <string name="med_dosage_hint">మోతాదు (ఉదా: 1 టాబ్లెట్)</string>
+    <string name="select_time_label">సమయం ఎంచుకోండి:</string>
+    <string name="time_morning">ఉదయం</string>
+    <string name="time_afternoon">మధ్యాహ్నం</string>
+    <string name="time_night">రాత్రి</string>
+    <string name="btn_add_schedule">షెడ్యూల్‌కు జోడించు</string>
+    <string name="your_medications_label">మీ మందులు</string>
+
+    <string name="event_vax_title">టీకా శిబిరం</string>
+    <string name="event_vax_desc">కమ్యూనిటీ సెంటర్‌లో సాధారణ ఆరోగ్య తనిఖీ మరియు పోలియో చుక్కలు.</string>
+    <string name="event_visit_title">ఆశా గృహ సందర్శన</string>
+    <string name="event_visit_desc">వృద్ధులకు సాధారణ ఆరోగ్య తనిఖీ.</string>
+    <string name="event_eye_title">నేత్ర సంరక్షణ సెమినార్</string>
+    <string name="event_eye_desc">ప్రాథమిక ఆరోగ్య కేంద్రంలో ఉచిత కంటి పరీక్ష.</string>
+    <string name="event_nutri_title">పోషకాహార వర్క్‌షాప్</string>
+    <string name="event_nutri_desc">స్థానిక ఆహారం మరియు రోగనిరోధక శక్తిని పెంచడంపై మార్గదర్శకత్వం.</string>
+</resources>

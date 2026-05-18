@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_vital_log.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_vital_log.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_medication_reminder.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_medication_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_medication_schedule.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_medication_schedule.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_asha_calendar.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_asha_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\item_asha_event.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\item_asha_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "com.example.arogyasahaya.app-mergeDebugResources-78:/layout/fragment_dashboard.xml",
+        "source": "com.example.arogyasahaya.app-main-81:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\item_reminder.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\item_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_splash.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_trends.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_trends.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-mergeDebugResources-78:\\layout\\item_medication.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.7\\com.example.arogyasahaya.app-main-81:\\layout\\item_medication.xml"
+    }
+]

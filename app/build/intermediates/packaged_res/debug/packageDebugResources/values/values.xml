@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="background_color">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="emergency_red">#D32F2F</color>
+    <color name="primary_blue">#002171</color>
+    <color name="primary_dark">#000046</color>
+    <color name="primary_light">#5472d3</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="success_green">#388E3C</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_color">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="adherence_format">%1$d/%2$d Medicines Taken (%3$d%%)</string>
+    <string name="adherence_label">📊 Today\'s Adherence:</string>
+    <string name="app_name">Arogya Sahaya</string>
+    <string name="app_title">Arogya Sahaya Dashboard</string>
+    <string name="bp_hint">Blood Pressure (e.g., 120/80)</string>
+    <string name="btn_add_schedule">Add to Schedule</string>
+    <string name="btn_asha_calendar">📅 ASHA Calendar</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_hide_asha">🙈 Hide ASHA Calendar</string>
+    <string name="btn_log_vitals">❤️ Log Vitals</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_med_schedule">💊 Medicine Schedule</string>
+    <string name="btn_profile">My Profile</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_sos">🚨 SOS 🚨</string>
+    <string name="event_eye_desc">Free eye testing at the Primary Health Center.</string>
+    <string name="event_eye_title">👁️ Eye Care Seminar</string>
+    <string name="event_nutri_desc">Guidance on local diet and immunity boosting.</string>
+    <string name="event_nutri_title">🥗 Nutrition Workshop</string>
+    <string name="event_vax_desc">General health checkup and polio drops at the Community Center.</string>
+    <string name="event_vax_title">💉 Vaccination Camp</string>
+    <string name="event_visit_desc">Routine check for elderly residents.</string>
+    <string name="event_visit_title">🏠 ASHA Home Visit</string>
+    <string name="events_on_this_day">Events on this day:</string>
+    <string name="go_to_login">Already have an account? Login here</string>
+    <string name="go_to_register">Don\'t have an account? Register here</string>
+    <string name="greeting_format">🙏 Namaste %s</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_conditions">Chronic Conditions</string>
+    <string name="hint_contact">Email or Phone Number</string>
+    <string name="hint_emergency_contact">Emergency Contact Number</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_sos_number">Custom SOS Number</string>
+    <string name="hint_username">Username</string>
+    <string name="hr_hint">Heart Rate (BPM)</string>
+    <string name="label_dark_mode">Dark Mode</string>
+    <string name="label_language">Preferred Language</string>
+    <string name="log_vitals_title">Log Your Vitals</string>
+    <string name="login_title">Login</string>
+    <string name="logout">Logout</string>
+    <string name="med_display_format">%1$s - %2$s</string>
+    <string name="med_dosage_hint">Dosage (e.g., 1 tablet)</string>
+    <string name="med_name_hint">Medicine Name</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_med_mgmt">Management</string>
+    <string name="nav_med_reminder">Reminder</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_trends">Trends</string>
+    <string name="nav_vital_log">Vital Log</string>
+    <string name="next_medicine_label">⏰ Next Medicine:</string>
+    <string name="no_events_today">No events scheduled for this day.</string>
+    <string name="no_medicine_scheduled">No medicine scheduled</string>
+    <string name="profile_title">My Medical Profile</string>
+    <string name="register_title">Register</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="save_vitals">Save Vitals</string>
+    <string name="select_time_label">Select Time:</string>
+    <string name="sms_failed">Failed to send SMS</string>
+    <string name="sos_sms_message">EMERGENCY: I need help! Please contact me immediately.</string>
+    <string name="sos_triggered_format">EMERGENCY: SOS Triggered to %1$s</string>
+    <string name="sugar_hint">Blood Sugar (mg/dL)</string>
+    <string name="time_afternoon">Afternoon</string>
+    <string name="time_morning">Morning</string>
+    <string name="time_night">Night</string>
+    <string name="trends_7day">7-Day Trends</string>
+    <string name="weight_hint">Weight (kg)</string>
+    <string name="your_medications_label">Your Medications</string>
+    <style name="Theme.ArogyaSahaya" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        
+        <item name="android:windowBackground">@color/background_color</item>
+        <item name="android:textColorPrimary">@color/text_color</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+    </style>
+</resources>
